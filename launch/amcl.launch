@@ -32,7 +32,7 @@
     <param name="initial_pose_a" value="-0.75"/>
 
     <!-- Laser model -->
-    <param name="laser_min_range" value="-10"/>
+    <param name="laser_min_range" value="0.5"/>
     <param name="laser_max_range" value="10"/>
     <param name="laser_z_hit" value="0.99"/>
     <param name="laser_z_short" value="0.1"/>
